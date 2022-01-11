@@ -162,6 +162,6 @@ main{
 }
 
 #app.warm {
-  background-image: url(./assets/warm.jpg);
+  background-image: url('./assets/warm.png');
 }
 </style>
