@@ -1,4 +1,4 @@
-install modules
+install modules<br>
  npm i
 
 # vue-weather
