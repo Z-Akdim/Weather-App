@@ -1,5 +1,9 @@
-install modules<br>
- npm i
+first we have to install our modules:<br>
+
+run ```npm i``` in the folder<br>
+and<br>
+run ```npm run serve```
+
 
 # vue-weather
 
